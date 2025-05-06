@@ -109,7 +109,7 @@ Press any key to continue...
 |------------------------|------------------------------|
 | Albert Soriano Jr      | 23-03014@g.batstate-u.edu.ph |
 | John Richnell Catibog  | 23-04985@g.batstate-u.edu.ph |
-| Jerzha Ara Lalu        | 23-05464@g.batstate-u.edu.ph |
+| Jerzha Ara Ramil Lalu  | 23-05464@g.batstate-u.edu.ph |
 | Kent Ian Ramirez       | 23-00686@g.batstate-u.edu.ph |
 
 ## Acknowledgement
