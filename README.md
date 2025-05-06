@@ -67,7 +67,7 @@ The application utilizes several Object-Oriented Programming (OOP) principles:
 ## Sample Output
 ```
 
-\--- DIGITAL DIARY ---
+--- DIGITAL DIARY ---
 
 1. Write a New Entry
 2. View All Entries
@@ -82,7 +82,7 @@ Entry added.
 
 Press any key to continue...
 
-\--- DIGITAL DIARY ---
+--- DIGITAL DIARY ---
 
 1. Write a New Entry
 2. View All Entries
@@ -91,12 +91,12 @@ Press any key to continue...
 
 Enter your choice: 2
 
-\--- Encrypted Entries ---
+--- Encrypted Entries ---
 Wkhq wdv d juhdw gd!
 
 Enter password to view decrypted entries (or 'x' to return): Group 1
 
-\--- Decrypted Entries ---
+--- Decrypted Entries ---
 Today was a great day!
 
 Press any key to continue...
